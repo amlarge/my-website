@@ -6,7 +6,7 @@ title: Adam M. Large
 superuser: true
 
 # Role/position
-role: Data SCientist
+role: Data Scientist
 
 # Organizations/Affiliations
 organizations:
@@ -16,7 +16,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: I have over ten years of robust experience in data science, advanced technical skills, and contributed to various research projects, ranging from molecular biology to psychology
 
-interests:
+Interests:
 - Sensation and Perception
 - Learning and Plasticity
 - Language Processing
@@ -61,9 +61,10 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-#user_groups:
-#- Researchers
-#- Visitors
+user_groups:[]
+- Researchers
+- Visitors
+
 ---
 
 Adam Large is currently pursuing data science positions with an emphasis on his interest in the health industries, human behavior, and language processing. He has over ten years of robust experience in data science, advanced technical skills, and contributed to various research projects, ranging from molecular biology to psychology. 
