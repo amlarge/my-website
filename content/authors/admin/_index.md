@@ -1,5 +1,4 @@
 ---
-
 # Display name
 title: Adam M. Large
 
@@ -46,9 +45,10 @@ Social:
   link: https://github.com/amlarge
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: files/cv.pdf
+CV:
+- icon: cv
+  icon_pack: ai
+  link: static/files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -56,12 +56,15 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-#user_groups:[]
-#- Researchers
-#- Visitors
 
+# Organizational groups that you belong to (for People widget)
+#   Remove this if you are not using the People widget.
+#user_groups:
+#- Principal Investigators
 ---
 
 Adam Large is currently pursuing data science positions with an emphasis on his interest in the health industries, human behavior, and language processing. He has over ten years of robust experience in data science, advanced technical skills, and contributed to various research projects, ranging from molecular biology to psychology. 
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "files/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
+
+
