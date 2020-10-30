@@ -1,4 +1,5 @@
 ---
+
 # Display name
 title: Adam M. Large
 
@@ -37,7 +38,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:large.adam.m@gmail.com"  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:large.adam.m@gmail.com  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -62,8 +63,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:[]
-- Researchers
-- Visitors
+#- Researchers
+#- Visitors
 
 ---
 
