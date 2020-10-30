@@ -17,12 +17,14 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: I have over ten years of robust experience in data science, advanced technical skills, and contributed to various research projects, ranging from molecular biology to psychology
 
+# Interests to show in About widget
 Interests:
 - Sensation and Perception
 - Learning and Plasticity
 - Language Processing
 
-education:
+# Education to show in About widget
+Education:
   courses:
   - course: PhD in Neuroscience
     institution: University of Pittsburgh
@@ -35,16 +37,10 @@ education:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
+Social:
 - icon: envelope
   icon_pack: fas
   link: mailto:large.adam.m@gmail.com  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/amlarge
@@ -62,7 +58,7 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:[]
+#user_groups:[]
 #- Researchers
 #- Visitors
 
