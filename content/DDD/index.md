@@ -34,6 +34,8 @@ A list of categories and their proportions can be found here:
 However, I was interested in how these have changed over time. So I broke these down by season:
 
 
+{{< figure src="visualization (3).png" title="DDD over time" >}}
+
 The major takeaway is that diners were by far the most common in early seasons, but have dropped in proportion since then. We also see that at this point, the types of restaurants visited are more varied.
 
 However, before I declare "Guy Fieri is a liar!", I do want to point out that just because he doesn't visit many drive-ins, there are two things to keep in mind:
@@ -43,6 +45,8 @@ However, before I declare "Guy Fieri is a liar!", I do want to point out that ju
 
 To that end, I tried out this analysis on another show, Michael Symon's "Burgers, Brew, and 'Que", which not only should have a high overlap on types of restaurants visited, but clearly took inspiration from Guy Fieri on its title.
 
+
+{{< figure src="symon.png" title="BBB categories" >}}
 
 Thankfully, we do see that bars, bbq are pretty common words used in describing places Michal Symon goes, but drive-ins are not.
 
