@@ -17,11 +17,6 @@
   name = "Projects"
   url = "#projects"
   weight = 30
-  
-[[main]]
-  name = "Diners, Drive-Ins, and Lies"  # A link title for your page.
-  url = "DDD/"  # The URL of your page.
-  weight = 50  # The position of your page in the menu.
 
 [[main]]
   name = "Publications"
