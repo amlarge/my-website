@@ -8,13 +8,10 @@ share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
 
-# Optional header image (relative to `static/media/` folder).
-header:
-  caption: ""
-  image: ""
 ---
 
-# Diners, Drive-Ins, and Lies:
+
+## Diners, Drive-Ins, and Lies:
 ## Guy Fieri's Most Commonly Visited Restaurants
 
 The Food Network Show "Diners, Drive-Ins, and Dives" has been a television staple since 2007. Since then, Guy Fieri and crew have been to over 1,000 restaurants in the United States, and even some international locations. Not even COVID-19 can stop the Mayor of Flavortown: current episodes of the show feature the restaurants sending their food to him. The premise of the show was simple: to celebrate the unsung heroes of the dining scene: your greasy spoons, dimly lit hometown hangouts, and the remnants of mid-century Americana. However, a more recent viewer of the program may be left confused, as it seems that the premise has been abandoned. I was interested in finding this out.
