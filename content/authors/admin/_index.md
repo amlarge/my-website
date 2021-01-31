@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I have over ten years of robust experience in data science, advanced technical skills, and contributed to various research projects, ranging from molecular biology to psychology
+bio: I have over ten years of robust experience in data science, advanced technical skills, and contributed to various research projects, ranging from molecular biology to psychology. 
 
 # Interests to show in About widget
 Interests:
@@ -63,7 +63,7 @@ highlight_name: false
 #- Principal Investigators
 ---
 
-Adam Large is currently pursuing data science positions with an emphasis on his interest in the health industries, human behavior, and language processing. He has over ten years of robust experience in data science, advanced technical skills, and contributed to various research projects, ranging from molecular biology to psychology. 
+Adam Large is currently pursuing data science positions with an emphasis on his interest in the health industries, human behavior, and language processing. He has over ten years of robust experience in data science, advanced technical skills, and contributed to various research projects, ranging from molecular biology to psychology. Adam is also extremely interested in broadening the public's understanding of science.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "files/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
 
