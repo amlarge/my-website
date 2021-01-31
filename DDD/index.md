@@ -30,65 +30,11 @@ I would then perform some text analysis of each restaurants description, looking
 It is also worth noting any given restaurant could be put into multiple categories.
 
 
-
 In the end, I had a list of 1185 restaurants.
 
 A list of categories and their counts can be found here:
 
-
-
-<style  type="text/css" >
-</style><table id="T_ab8c8990_6399_11eb_a7d2_e03f491329ca" ><thead>    <tr>        <th class="col_heading level0 col0" >Category</th>        <th class="col_heading level0 col1" >Proportion</th>    </tr></thead><tbody>
-                <tr>
-                                <td id="T_ab8c8990_6399_11eb_a7d2_e03f491329carow0_col0" class="data row0 col0" >driveins</td>
-                        <td id="T_ab8c8990_6399_11eb_a7d2_e03f491329carow0_col1" class="data row0 col1" >0.010127</td>
-            </tr>
-            <tr>
-                                <td id="T_ab8c8990_6399_11eb_a7d2_e03f491329carow1_col0" class="data row1 col0" >dives</td>
-                        <td id="T_ab8c8990_6399_11eb_a7d2_e03f491329carow1_col1" class="data row1 col1" >0.026160</td>
-            </tr>
-            <tr>
-                                <td id="T_ab8c8990_6399_11eb_a7d2_e03f491329carow2_col0" class="data row2 col0" >cafes</td>
-                        <td id="T_ab8c8990_6399_11eb_a7d2_e03f491329carow2_col1" class="data row2 col1" >0.066667</td>
-            </tr>
-            <tr>
-                                <td id="T_ab8c8990_6399_11eb_a7d2_e03f491329carow3_col0" class="data row3 col0" >bbq</td>
-                        <td id="T_ab8c8990_6399_11eb_a7d2_e03f491329carow3_col1" class="data row3 col1" >0.108861</td>
-            </tr>
-            <tr>
-                                <td id="T_ab8c8990_6399_11eb_a7d2_e03f491329carow4_col0" class="data row4 col0" >bars</td>
-                        <td id="T_ab8c8990_6399_11eb_a7d2_e03f491329carow4_col1" class="data row4 col1" >0.176371</td>
-            </tr>
-            <tr>
-                                <td id="T_ab8c8990_6399_11eb_a7d2_e03f491329carow5_col0" class="data row5 col0" >pubs</td>
-                        <td id="T_ab8c8990_6399_11eb_a7d2_e03f491329carow5_col1" class="data row5 col1" >0.064135</td>
-            </tr>
-            <tr>
-                                <td id="T_ab8c8990_6399_11eb_a7d2_e03f491329carow6_col0" class="data row6 col0" >brunch</td>
-                        <td id="T_ab8c8990_6399_11eb_a7d2_e03f491329carow6_col1" class="data row6 col1" >0.038819</td>
-            </tr>
-            <tr>
-                                <td id="T_ab8c8990_6399_11eb_a7d2_e03f491329carow7_col0" class="data row7 col0" >gas station</td>
-                        <td id="T_ab8c8990_6399_11eb_a7d2_e03f491329carow7_col1" class="data row7 col1" >0.006751</td>
-            </tr>
-            <tr>
-                                <td id="T_ab8c8990_6399_11eb_a7d2_e03f491329carow8_col0" class="data row8 col0" >joint</td>
-                        <td id="T_ab8c8990_6399_11eb_a7d2_e03f491329carow8_col1" class="data row8 col1" >0.145148</td>
-            </tr>
-            <tr>
-                                <td id="T_ab8c8990_6399_11eb_a7d2_e03f491329carow9_col0" class="data row9 col0" >mexican</td>
-                        <td id="T_ab8c8990_6399_11eb_a7d2_e03f491329carow9_col1" class="data row9 col1" >0.062447</td>
-            </tr>
-            <tr>
-                                <td id="T_ab8c8990_6399_11eb_a7d2_e03f491329carow10_col0" class="data row10 col0" >bakery</td>
-                        <td id="T_ab8c8990_6399_11eb_a7d2_e03f491329carow10_col1" class="data row10 col1" >0.022785</td>
-            </tr>
-    </tbody></table>
-
-
-
 However, I was interested in how these have changed over time. So I broke these down by season:
-
 
 
 The major takeaway is that diners were by far the most common in early seasons, but have dropped in proportion since then. We also see that at this point, the types of restaurants visited are more varied.
@@ -101,7 +47,6 @@ However, before I declare "Guy Fieri is a liar!", I do want to point out that ju
 To that end, I tried out this analysis on another show, Michael Symon's "Burgers, Brew, and 'Que", which not only should have a high overlap on types of restaurants visited, but clearly took inspiration from Guy Fieri on its title.
 
 
-
 Thankfully, we do see that bars, bbq are pretty common words used in describing places Michal Symon goes, but drive-ins are not.
 
 #### Considerations and Future Work
@@ -111,4 +56,3 @@ This analysis can be improved in a few ways. For one, the keywords I used to sea
 Furthermore, this could be extended out to how restaurant descriptions might vary between show. We see that Michael Symon goes to different restaurants, but it might be possible that word choice might vary between shows. Preliminary analysis shows that Burgers, Brew, and 'Que may use more poetic words like "succulent" in their descriptions. 
 
 Ultimately, Diners, Drive-Ins, and Dives is not different from any other long-running show: While keeping their premise early on, but evolves and changes over time. And if it has a strong brand, it wouldn't make sense to change the name, would it? As long as the quality of restaurants hasn't decline (and it doesn't seem like that's the case), we can accept that Guy Fieri has broadened the scope of the show. 
-
