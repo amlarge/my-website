@@ -1,5 +1,5 @@
 ---
-title: An example title
+title: Diners, Drive-Ins, and Lies
 summary: Here we describe how to add a page to your site.
 date: "2018-06-28T00:00:00Z"
 
@@ -10,8 +10,6 @@ comments: false  # Show comments?
 
 ---
 
-
-## Diners, Drive-Ins, and Lies:
 ## Guy Fieri's Most Commonly Visited Restaurants
 
 The Food Network Show "Diners, Drive-Ins, and Dives" has been a television staple since 2007. Since then, Guy Fieri and crew have been to over 1,000 restaurants in the United States, and even some international locations. Not even COVID-19 can stop the Mayor of Flavortown: current episodes of the show feature the restaurants sending their food to him. The premise of the show was simple: to celebrate the unsung heroes of the dining scene: your greasy spoons, dimly lit hometown hangouts, and the remnants of mid-century Americana. However, a more recent viewer of the program may be left confused, as it seems that the premise has been abandoned. I was interested in finding this out.
@@ -29,7 +27,9 @@ It is also worth noting any given restaurant could be put into multiple categori
 
 In the end, I had a list of 1185 restaurants.
 
-A list of categories and their counts can be found here:
+A list of categories and their proportions can be found here:
+
+{{< figure src="image_2021-01-31_022814.png" title="DDD categories" >}}
 
 However, I was interested in how these have changed over time. So I broke these down by season:
 
