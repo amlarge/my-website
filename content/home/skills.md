@@ -18,19 +18,25 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = "Stastical Modeling"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
+  description = "Descriptive and Inferential Statistics"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "Natural Language Processing, Feature Extraction, Pandas, SQL"
+  
+[[feature]]
+  icon = "brain"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Neuroscience"
+  description = "Sensory Nuuroscience, ex vivo electrophysiology, optogenetics"
 
 # Uncomment to use emoji icons.
 # [[feature]]
