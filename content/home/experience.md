@@ -1,23 +1,17 @@
----
++++
 # An instance of the Experience widget.
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
-widget: experience
+widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 40  # Order that this section will appear.
 
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 40
-
-title: Experience
-subtitle:
+title = "Experience"
+subtitle = ""
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format: Jan 2006
+date_format= "Jan 2006"
 
 # Experiences.
 #   Add/remove as many `experience` blocks below as you like.
@@ -74,4 +68,4 @@ date_format: Jan 2006
   description = """Organized a medical research summer course for high school students, while tracking students’ emotions throughout the course via experience sampling method"""
   
   
----
++++
