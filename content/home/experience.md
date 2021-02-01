@@ -23,8 +23,8 @@ date_format = "06 2006"
   company = "University of Madison - Wisconsin"
   company_url = ""
   location = "Madison, WI"
-  date_start = "07 2017"
-  date_end = "06 2019"
+  date_start = "17 2017"
+  date_end = "19 2019"
   description = """Projects include:
   
   * Organized multi-day studies to measure neural changes due to video game play
@@ -38,8 +38,8 @@ date_format = "06 2006"
   company = "University of Pittsburgh"
   company_url = ""
   location = "Pittsburgh, PA"
-  date_start = "08 2011"
-  date_end = "04 2017"
+  date_start = "11 2011"
+  date_end = "17 2017"
   description = """Projects include:
   
   * Indentified neural subtypes in mouse olfactory cortex using ex vivo electrophysiology
@@ -53,8 +53,8 @@ date_format = "06 2006"
   company = "University of Chicago"
   company_url = ""
   location = "Chicago, IL"
-  date_start = "01 2010"
-  date_end = "02 2011"
+  date_start = "10 2010"
+  date_end = "11 2011"
   description = """Analyzed fMRI data of subjects listening to speech and speech-like sounds"""
 
 [[experience]]
@@ -62,8 +62,8 @@ date_format = "06 2006"
   company = "University of Chicago Center for Health and Social Sciences"
   company_url = ""
   location = "Chicago, IL"
-  date_start = "05 2009"
-  date_end = "04 2010"
+  date_start = "09 2009"
+  date_end = "10 2010"
   description = """Organized a medical research summer course for high school students, while tracking students’ emotions throughout the course via experience sampling method"""
 
 +++
