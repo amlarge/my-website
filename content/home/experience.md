@@ -38,8 +38,8 @@ date_format = "2006"
   company = "University of Pittsburgh"
   company_url = ""
   location = "Pittsburgh, PA"
-  date_start = "2011"
-  date_end = "2017"
+  date_start = "08 2011"
+  date_end = "04 2017"
   description = """Projects include:
   
   * Indentified neural subtypes in mouse olfactory cortex using ex vivo electrophysiology
@@ -53,8 +53,8 @@ date_format = "2006"
   company = "University of Chicago"
   company_url = ""
   location = "Chicago, IL"
-  date_start = "2010"
-  date_end = "2011"
+  date_start = "01 2010"
+  date_end = "02 2011"
   description = """Analyzed fMRI data of subjects listening to speech and speech-like sounds"""
 
 [[experience]]
@@ -62,8 +62,8 @@ date_format = "2006"
   company = "University of Chicago Center for Health and Social Sciences"
   company_url = ""
   location = "Chicago, IL"
-  date_start = "2009"
-  date_end = "2010"
+  date_start = "05 2009"
+  date_end = "04 2010"
   description = """Organized a medical research summer course for high school students, while tracking students’ emotions throughout the course via experience sampling method"""
 
 +++
