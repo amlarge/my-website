@@ -1,5 +1,5 @@
 ---
-title: LudoBrains
+title: LudoThemes
 subtitle: " A Board Game Description Analyzer"
 date: 2021-02-01T09:49:27.686Z
 summary: After user provides a description of a prospective board game,
