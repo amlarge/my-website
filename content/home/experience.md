@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "2006"
+date_format = "06 2006"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -23,8 +23,8 @@ date_format = "2006"
   company = "University of Madison - Wisconsin"
   company_url = ""
   location = "Madison, WI"
-  date_start = "2017"
-  date_end = "2019"
+  date_start = "07 2017"
+  date_end = "06 2019"
   description = """Projects include:
   
   * Organized multi-day studies to measure neural changes due to video game play
