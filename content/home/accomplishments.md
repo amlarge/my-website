@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "06 2006"
+date_format= "Jan 2006"
 
 # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
@@ -24,7 +24,7 @@ date_format = "06 2006"
   title = "Data Science Fellowship"
   url = ""
   certificate_url = ""
-  date_start = "07 2020"
+  date_start = "2020-01-01"
   date_end = ""
   description = ""
 
@@ -34,7 +34,7 @@ date_format = "06 2006"
   title = "Mellon Fellowship"
   url = ""
   certificate_url = ""
-  date_start = "08 2016"
+  date_start = "2016-01-01"
   date_end = ""
   description = ""
   
@@ -44,7 +44,7 @@ date_format = "06 2006"
   title = "NIH Predoctoral Training Grant in Basic Neuroscience (T32NS007433) recipient"
   url = ""
   certificate_url = ""
-  date_start = "08 2012"
+  date_start = "2012-01-01"
   date_end = ""
   description = ""
 
