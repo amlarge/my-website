@@ -69,11 +69,7 @@ subtitle = ""
   
 [advanced]
  # Custom CSS. 
- css_style = ".card .card-image {
-display: block;
-position: relative;
-max-width: 500px;
-}"
+ css_style = ""
  
  # CSS class.
  css_class = ""
