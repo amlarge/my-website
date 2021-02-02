@@ -23,9 +23,10 @@ publication_short: ""
 abstract: Over the past 30 years, a large body of research has accrued demonstrating that video games are capable of placing substantial demands on the human cognitive, emotional, physical, and social processing systems. Within the cognitive realm, playing games belonging to one particular genre, known as the action video game genre, has been consistently linked with demands on a host of cognitive abilities including perception, top-down attention, multitasking, and spatial cognition. More recently, a number of new game genres have emerged that, while different in many ways from “traditional” action games, nonetheless seem likely to load upon similar cognitive processes. One such example is the multiplayer online battle arena genre (MOBA), which involves a mix of action and real-time strategy characteristics. Here, a sample of over 500 players of the MOBA game League of Legends completed a large battery of cognitive tasks. Positive associations were observed between League of Legends performance (quantified by participants’ in-game match-making rating) and a number of cognitive abilities consistent with those observed in the existing action video game literature, including speed of processing and attentional abilities. Together, our results document a rich pattern of cognitive abilities associated with high levels of League of Legends performance and suggest similarities between MOBAs and action video games in terms of their cognitive demands.
 
 # Summary. An optional shortened abstract.
-# summary:
+ summary: hello
 
 tags:
+- Video Games
 featured: false
 
 # links:
@@ -43,6 +44,9 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  focal_point: ""
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -55,7 +59,17 @@ projects: []
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
+#   Otherwise, set `slides: ""`
+
 slides:""
 ---
 
+{{% alert note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /alert %}}
+
+{{% alert note %}}
+Click the *Slides* button above to demo Academic's Markdown slides feature.
+{{% /alert %}}
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
