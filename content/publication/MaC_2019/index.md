@@ -8,9 +8,13 @@ authors:
 - Daphne Bavelier
 - C. Shawn Green
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+- "Department of Psychology, University of Wisconsin—Madison, USA"
+- "Faculty of Psychology and Educational Sciences, University of Geneva, Switzerland"
+- "Faculty of Psychology and Educational Sciences, University of Geneva, Switzerland"
+- "Department of Psychology, The Hebrew University of Jerusalem, Israel"
+- "Faculty of Psychology and Educational Sciences, University of Geneva, Switzerland"
+- "Department of Psychology, University of Wisconsin—Madison, USA"
+date: "2019-12-20T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -32,8 +36,8 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
-featured: false
+- Video Games
+featured: true
 
 # links:
 # - name: ""
