@@ -35,7 +35,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.cogitatiopress.com/mediaandcommunication/article/download/2314/2314
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
