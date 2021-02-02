@@ -1,6 +1,6 @@
 ---
 title: Diners, Drive-Ins, and Lies
-summary: Here we describe how to add a page to your site.
+summary: Looking at the distribution of restaurants visited by Guy Fieri in his show "Diner's, Drive-Ins, and Dives."
 date: "2018-06-28T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
