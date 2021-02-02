@@ -18,17 +18,17 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Media and Communication, 7*(4)"
+publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: Over the past 30 years, a large body of research has accrued demonstrating that video games are capable of placing substantial demands on the human cognitive, emotional, physical, and social processing systems. Within the cognitive realm, playing games belonging to one particular genre, known as the action video game genre, has been consistently linked with demands on a host of cognitive abilities including perception, top-down attention, multitasking, and spatial cognition. More recently, a number of new game genres have emerged that, while different in many ways from “traditional” action games, nonetheless seem likely to load upon similar cognitive processes. One such example is the multiplayer online battle arena genre (MOBA), which involves a mix of action and real-time strategy characteristics. Here, a sample of over 500 players of the MOBA game League of Legends completed a large battery of cognitive tasks. Positive associations were observed between League of Legends performance (quantified by participants’ in-game match-making rating) and a number of cognitive abilities consistent with those observed in the existing action video game literature, including speed of processing and attentional abilities. Together, our results document a rich pattern of cognitive abilities associated with high levels of League of Legends performance and suggest similarities between MOBAs and action video games in terms of their cognitive demands.
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-summary: hello
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Video Games
-featured: true
+- Source Themes
+featured: false
 
 # links:
 # - name: ""
@@ -64,3 +64,12 @@ projects: []
 slides: example
 ---
 
+{{% alert note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /alert %}}
+
+{{% alert note %}}
+Click the *Slides* button above to demo Academic's Markdown slides feature.
+{{% /alert %}}
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
