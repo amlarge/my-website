@@ -1,12 +1,14 @@
 ---
-title: "An example journal article"
+title: "Cognitive and Behavioral Correlates of Achievement in a Complex Multi-Player Video Game"
 authors:
 - admin
-- Robert Ford
+- Benoit Bediou
+- Sezen Cekic
+- Yuval Hart
+- Daphne Bavelier
+- C. Shawn Green
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2019-12-20T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
