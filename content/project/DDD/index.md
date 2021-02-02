@@ -29,12 +29,12 @@ In the end, I had a list of 1185 restaurants.
 
 A list of categories and their proportions can be found here:
 
-{{< figure src="image_2021-01-31_022814.png" title="DDD categories" >}}
+{{< figure src="ddd_db.png" title="DDD categories" >}}
 
 However, I was interested in how these have changed over time. So I broke these down by season:
 
 
-{{< figure src="visualization (3).png" title="DDD over time" >}}
+{{< figure src="dddbyseason.png" title="DDD over time" >}}
 
 The major takeaway is that diners were by far the most common in early seasons, but have dropped in proportion since then. We also see that at this point, the types of restaurants visited are more varied.
 
