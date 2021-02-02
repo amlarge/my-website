@@ -3,10 +3,7 @@ title: "Cognitive and Behavioral Correlates of Achievement in a Complex Multi-Pl
 authors:
 - admin
 - Benoit Bediou
-- Sezen Cekic
-- Yuval Hart
-- Daphne Bavelier
-- C. Shawn Green
+
 author_notes:
 date: "2019-12-20T00:00:00Z"
 doi: ""
