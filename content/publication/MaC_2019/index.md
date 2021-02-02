@@ -3,8 +3,12 @@ title: "Cognitive and Behavioral Correlates of Achievement in a Complex Multi-Pl
 authors:
 - admin
 - Benoit Bediou
+- Sezen Cekic
+- Yuval Hart
+- Daphne Bavelier
+- C. Shawn Green
 author_notes:
-date: "2015-09-01T00:00:00Z"
+date: "2019-12-20T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,10 +21,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Media and Communication, 7*(4)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Over the past 30 years, a large body of research has accrued demonstrating that video games are capable of placing substantial demands on the human cognitive, emotional, physical, and social processing systems. Within the cognitive realm, playing games belonging to one particular genre, known as the action video game genre, has been consistently linked with demands on a host of cognitive abilities including perception, top-down attention, multitasking, and spatial cognition. More recently, a number of new game genres have emerged that, while different in many ways from “traditional” action games, nonetheless seem likely to load upon similar cognitive processes. One such example is the multiplayer online battle arena genre (MOBA), which involves a mix of action and real-time strategy characteristics. Here, a sample of over 500 players of the MOBA game League of Legends completed a large battery of cognitive tasks. Positive associations were observed between League of Legends performance (quantified by participants’ in-game match-making rating) and a number of cognitive abilities consistent with those observed in the existing action video game literature, including speed of processing and attentional abilities. Together, our results document a rich pattern of cognitive abilities associated with high levels of League of Legends performance and suggest similarities between MOBAs and action video games in terms of their cognitive demands.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
