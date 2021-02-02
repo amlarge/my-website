@@ -65,6 +65,6 @@ highlight_name: false
 
 Adam Large is currently pursuing data science positions with an emphasis on his interest in the health industries, human behavior, and language processing. He has over ten years of robust experience in data science, advanced technical skills, and contributed to various research projects, ranging from molecular biology to psychology. Adam is also extremely interested in broadening the public's understanding of science.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "files/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "files/cv.pdf" "newtab" >}}Academic CV{{< /staticref >}} or {{< staticref "files/Resume_LargeAdamM.pdf.pdf" "newtab" >}}resume{{< /staticref >}}.
 
 
