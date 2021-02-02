@@ -28,6 +28,7 @@ abstract: Over the past 30 years, a large body of research has accrued demonstra
 
 # Summary. An optional shortened abstract.
 summary: hello
+
 tags:
 - Video Games
 featured: true
@@ -35,7 +36,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -63,6 +64,6 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: ""
+slides: example
 ---
 
