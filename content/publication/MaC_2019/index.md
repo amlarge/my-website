@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Cognitive and Behavioral Correlates of Achievement in a Complex Multi-Player Video Game"
 authors:
 - admin
 - Robert Ford
@@ -29,7 +29,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
