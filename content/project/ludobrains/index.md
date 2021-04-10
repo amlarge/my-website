@@ -9,7 +9,7 @@ summary: After user provides a description of a prospective board game,
   interest in the prospective game.
 draft: false
 featured: true
-external_link: http://www.ludothemes.herokuapp.com
+external_link: http://ludothemes.herokuapp.com
 image:
   filename: featured.png
   focal_point: Smart
