@@ -36,7 +36,7 @@ subtitle = ""
   icon = "brain"
   icon_pack = "fas"
   name = "Neuroscience"
-  description = "Sensory Nuuroscience, ex vivo electrophysiology, optogenetics"
+  description = "Sensory Neuroscience, ex vivo electrophysiology, optogenetics"
 
 # Uncomment to use emoji icons.
 # [[feature]]
