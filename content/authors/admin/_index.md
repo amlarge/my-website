@@ -42,7 +42,7 @@ Social:
   link: mailto:large.adam.m@gmail.com  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
-  link: https://github.com/amlarge
+  link: https://github.com/adammlarge
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 CV:
@@ -63,7 +63,7 @@ highlight_name: false
 #- Principal Investigators
 ---
 
-Adam Large i a once-neuroscientist currently pursuing data science positions with an emphasis on his interest in the health industries, human behavior, and language processing. He has over ten years of robust experience in data science, advanced technical skills, and contributed to various research projects, ranging from molecular biology to psychology. Adam is also extremely interested in broadening the public's understanding of science.
+Adam Large is a once-neuroscientist currently pursuing data science and data engineering positions with an emphasis on his interest in the health industries, human behavior, and language processing. He has over ten years of robust experience in data science, advanced technical skills, and contributed to various research projects, ranging from molecular biology to psychology. Adam is also extremely interested in broadening the public's understanding of science.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "files/cv.pdf" "newtab" >}}Academic CV{{< /staticref >}} or {{< staticref "files/Resume_LargeAdamM.pdf" "newtab" >}}resume{{< /staticref >}}.
 
