@@ -13,12 +13,6 @@ subtitle = ""
 # Add/remove as many `[[feature]]` blocks below as you like.
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-
-[[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "Stastical Modeling"
   
 [[feature]]
   icon = "chart-line"
@@ -30,7 +24,7 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "Natural Language Processing, Feature Extraction, Pandas, SQL"
+  description = "Pandas, pyspark, pydantic"
   
 [[feature]]
   icon = "brain"
